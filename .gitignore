@@ -5,6 +5,7 @@ out/
 .kotlin
 .idea
 2.1-Bases_de_dades-Nivell2.iml
+.xml
 
 ### Eclipse ###
 .apt_generated
